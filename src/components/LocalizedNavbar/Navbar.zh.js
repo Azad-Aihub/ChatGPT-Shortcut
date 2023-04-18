@@ -17,7 +17,7 @@ const zhNavbar = {
       position: "left",
     },
     {
-      href: 'https://faka.azad.asia/buy/42',
+      href: 'https://faka.aihub.ren/buy/42',
       label: '获取账号API',
       target: '_blank',
       position: 'left',
