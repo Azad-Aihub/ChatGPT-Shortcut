@@ -7,7 +7,7 @@ const enNavbar = {
   },
   items: [
     {
-      href: 'https://faka.azad.asia/buy/42',
+      href: 'https://faka.aihub.ren/buy/42',
       label: '稳定账号API',
       target: '_blank',
       position: 'left',
