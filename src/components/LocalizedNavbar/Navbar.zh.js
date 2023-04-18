@@ -24,7 +24,7 @@ const zhNavbar = {
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://alist.azad.asia/",
+      href: "https://yiyan.baidu.com/",
       position: "right",
       className: "header-github-link",
     },
